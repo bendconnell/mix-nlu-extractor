@@ -1,6 +1,6 @@
 # NLU Extractor
 
-A Python project for natural language understanding extraction.
+A Python project for extracting intents and utterances from a legacy Mix natural language understanding (NLU) trsx file into a CSV file.
 
 ## Installation
 
@@ -10,9 +10,8 @@ pip install -e .
 
 ## Usage
 
-```python
-# Example usage will be added here
-```
+python <input-file> <output-file>
+
 
 ## Development
 
